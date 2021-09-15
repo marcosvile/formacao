@@ -26,13 +26,13 @@ Nesse quadro, existem as etiquetas **TODO**, **DOING** e **DONE**.
 
 - Já a etiqueta **DOING** significa que a tarefa já foi iniciada e está em execução, porém ainda não foi terminada.
 
-- E por fim, a etiqueta **DONE** significa que a tarefa já foi executada e concluída.
+- E por fim, a etiqueta **DONE** significa que a tarefa já foi executada e concluída. Neste momento, após a conclusão da tarefa, você pode clicar em Close issue para realizar o fechamento da tarefa.
 
 Para mover uma tarefa entre os quadros pode ser feito via interface, acessando a opção `Boards` no menu `Issues` e arrastando o retângulo da tarefa para outra coluna do novo estado da tarefa.
 
 As tarefas também estão organizadas por Milestones (marcos). São agrupamentos de tarefas que facilitam a visualização do que precisa ser entregue por período. Organizamos eles em Semana 1, Semana 2, Semana 3 e Semana 4. Isso não significa que você não pode executar as tarefas antes, mas o ideal é executá-las durante a semana que está definida, para não lhe sobrecarregar ou acabar ficando tudo para a última hora.
 
 
-
 <div align="center">Tenha uma excelente experiência 🙂</div>
+
 
