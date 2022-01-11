@@ -1,5 +1,5 @@
 <div align="center"><h1><b>Programa de Formação</b></h1>
-<img src="https://aztecweb.net/packages/uploads/2020/06/logo_header.svg" width="90"></div>
+<img src="https://aztecweb.net/uploads/2021/08/marca_principal.png" width="90"></div>
 
 Olá, queremos te desejar boas-vindas ao teste do programa de formação da Aztec. 
 Aqui, neste arquivo, você encontrará informações importantes sobre o projeto.
