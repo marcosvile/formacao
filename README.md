@@ -33,6 +33,6 @@ Para mover uma tarefa entre os quadros pode ser feito via interface, acessando a
 As tarefas também estão organizadas por Milestones (marcos). São agrupamentos de tarefas que facilitam a visualização do que precisa ser entregue por período. Organizamos eles em Semana 1, Semana 2, Semana 3 e Semana 4. Isso não significa que você não pode executar as tarefas antes, mas o ideal é executá-las durante a semana que está definida, para não lhe sobrecarregar ou acabar ficando tudo para a última hora.
 
 
-<div align="center">Tenha uma excelente experiência 🙂</div>
+<div align="center">Tenha uma excelente experiência. 🙂</div>
 
 
