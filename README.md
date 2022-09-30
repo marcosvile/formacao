@@ -5,7 +5,7 @@ Olá, queremos te desejar boas-vindas ao teste do programa de formação da Azte
 Aqui, neste arquivo, você encontrará informações importantes sobre o projeto.
 
 
-## Objetivo do projeto:
+## Objetivo do projeto
 O projeto consiste na criação do seu próprio site. Este site será sua vitrine na internet. Nele você falará sobre a pessoa profissional que você é, suas competências e também fazer publicações através de um blog. Apesar do projeto ser um teste, ficaremos muito felizes se ele for mantido após sua finalização. 
 
 Neste teste não estaremos avaliando sua capacidade técnica, mas seu engajamento com o programa. Queremos que as pessoas participantes da nossa comunidade estejam num momento de adquirir conhecimento e dispostas a dedicar tempo ao nosso programa.
